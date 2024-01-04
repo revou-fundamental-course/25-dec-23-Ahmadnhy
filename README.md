@@ -8,7 +8,6 @@
 </ul>
 <h3>Tech stack:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js">
-<--
+
 Link Github Pages :
 https://revou-fundamental-course.github.io/25-dec-23-Ahmadnhy/
--->
